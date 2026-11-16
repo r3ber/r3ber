@@ -1,3 +1,4 @@
+![ASCII rubber duck](assets/duck-river.gif)
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r3ber&show_icons=true&theme=radical)
