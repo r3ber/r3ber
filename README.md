@@ -1,9 +1,9 @@
+# Hello!
 ![ASCII rubber duck](assets/duck-river.gif)
-## GitHub Stats
+## About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r3ber&show_icons=true&theme=radical)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,docker,c,bash,cmake,css,discord,flask,github,gmail,html,java,kali,linux,md,matlab,mongodb,nodejs,obsidian,postman,py,react,svg,twitter,vscode,windows" />
-  </a>
-</p>
+I'm a nerd who likes computers, programming, cybersecurity, playing CTF's and Space.
+
+I have experience in Python, C, C++, Java, Bash, html, make, react, nodejs; and starting to learn x86 and Rust.
+
+Currently exploring Reverse Engineering and Binary Exploitation while doing my Master's to specialize in Cybersecurity.
